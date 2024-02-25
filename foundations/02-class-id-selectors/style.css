@@ -1,0 +1,20 @@
+.odd-class,
+.third-class {
+    background-color: #fd7b7b;
+    font: Verdana, "DeJaVu Sans", sans-serif;
+}
+
+#first-id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.third-class {
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: #7eff7e;
+    font-size: 24px;
+    font-weight: bold;
+}
